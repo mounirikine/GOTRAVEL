@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/GOTRAVEL/static/css/main.17e3855c.css",
+    "main.js": "/GOTRAVEL/static/js/main.79dfb1f7.js",
+    "static/js/787.e4318ea6.chunk.js": "/GOTRAVEL/static/js/787.e4318ea6.chunk.js",
+    "static/media/hero.mp4": "/GOTRAVEL/static/media/hero.6897611ca50168cc8111.mp4",
+    "static/media/beachVid.mp4": "/GOTRAVEL/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/ban4.jpg": "/GOTRAVEL/static/media/ban4.de1d84e1afe70e5a743e.jpg",
+    "static/media/ban5.jpg": "/GOTRAVEL/static/media/ban5.b5f24c12edb5196af750.jpg",
+    "static/media/ban2.jpg": "/GOTRAVEL/static/media/ban2.67a0c07343baebc173b4.jpg",
+    "static/media/ban1.jpg": "/GOTRAVEL/static/media/ban1.dc8c65a9f92958e8e351.jpg",
+    "static/media/ban3.jpg": "/GOTRAVEL/static/media/ban3.e92acebe0512039c4373.jpg",
+    "static/media/keywest.jpg": "/GOTRAVEL/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/borabora.jpg": "/GOTRAVEL/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/GOTRAVEL/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/GOTRAVEL/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/package-2.jpg": "/GOTRAVEL/static/media/package-2.8c2eb15b177c7e5fcf21.jpg",
+    "static/media/pub.jpg": "/GOTRAVEL/static/media/pub.132630d8eac9b9312c0f.jpg",
+    "static/media/package-4.jpg": "/GOTRAVEL/static/media/package-4.5f92ba6e67a6ba4f4f4a.jpg",
+    "static/media/package-6.jpg": "/GOTRAVEL/static/media/package-6.be9e3866bdb96398acb3.jpg",
+    "static/media/package-1.jpg": "/GOTRAVEL/static/media/package-1.fe4143953b90ec0d31fe.jpg",
+    "static/media/package-3.jpg": "/GOTRAVEL/static/media/package-3.1dbf628a05d7ff4a9b79.jpg",
+    "static/media/package-5.jpg": "/GOTRAVEL/static/media/package-5.e7265ad751618d25aee8.jpg",
+    "static/media/team-1.jpg": "/GOTRAVEL/static/media/team-1.19575d0f0ae6975877c3.jpg",
+    "static/media/team-2.jpg": "/GOTRAVEL/static/media/team-2.f7de3f7285dae6d54921.jpg",
+    "static/media/team-3.jpg": "/GOTRAVEL/static/media/team-3.3d4090b04d58ee73aaf2.jpg",
+    "static/media/team-4.jpg": "/GOTRAVEL/static/media/team-4.0461dea9bcadcf04a287.jpg",
+    "index.html": "/GOTRAVEL/index.html",
+    "main.17e3855c.css.map": "/GOTRAVEL/static/css/main.17e3855c.css.map",
+    "main.79dfb1f7.js.map": "/GOTRAVEL/static/js/main.79dfb1f7.js.map",
+    "787.e4318ea6.chunk.js.map": "/GOTRAVEL/static/js/787.e4318ea6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17e3855c.css",
+    "static/js/main.79dfb1f7.js"
+  ]
+}
